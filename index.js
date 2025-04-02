@@ -23,7 +23,7 @@ function info() {
     apiversion: "1",
     author: "Sokos",       // TODO: Your Battlesnake Username
     color: "#0f0e42", // snake color
-    head: "cosmic-horror",  // snake head
+    head: "replit-mark",  // snake head
     tail: "hook",  // TODO: Choose tail
   };
 }
